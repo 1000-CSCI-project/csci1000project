@@ -42,6 +42,11 @@ export default function Home() {
            <p>Click here to navigate to the page</p>
           </a>
 
+          <a href='/JackMcAuliffe ' className='card'>
+            <h3>Jack McAuliffe's Personal Page &rarr;</h3>
+           <p>Click here to navigate to the page</p>
+          </a>
+
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
